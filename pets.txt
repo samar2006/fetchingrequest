@@ -3,3 +3,9 @@ cat
 cow
 bufflow
 chicks
+lions
+tiger
+monkey
+rabbit
+leopard
+chetha
