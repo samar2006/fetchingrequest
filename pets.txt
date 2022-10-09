@@ -9,3 +9,6 @@ monkey
 rabbit
 leopard
 chetha
+frog 
+snail
+tortoise
